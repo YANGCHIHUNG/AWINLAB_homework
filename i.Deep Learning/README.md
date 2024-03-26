@@ -157,7 +157,7 @@ plt.ylabel('Accuracy')
 plt.legend()
 plt.show()
 ```
-![image](https://hackmd.io/_uploads/ByoKFeyy0.png)
+![image](https://github.com/yangchihung/AWINLAB_homework/blob/master/img/output_1.png)
 
 
 ```
@@ -172,7 +172,7 @@ plt.ylabel('Loss')
 plt.legend()
 plt.show()
 ```
-![image](https://hackmd.io/_uploads/Bk6aYx11C.png)
+![image](https://github.com/yangchihung/AWINLAB_homework/blob/master/img/output_2.png)
 
 ---
 
@@ -192,7 +192,7 @@ plt.legend(['Train', 'Test'], loc='upper left')
 #顯示折線圖
 plt.show()
 ```
-![image](https://hackmd.io/_uploads/ryfYTblkA.png)
+![image](https://github.com/yangchihung/AWINLAB_homework/blob/master/img/output_3.png)
 
 
 ---
@@ -231,7 +231,7 @@ for i in range (row):
         plt.tight_layout()
         count+=1
 ```
-![image](https://hackmd.io/_uploads/BJB_pb1yC.png)
+![image](https://github.com/yangchihung/AWINLAB_homework/blob/master/img/output_4.png)
 在網路上隨機搜尋的十張圖片中，全部都預測正確。
 
 ---
