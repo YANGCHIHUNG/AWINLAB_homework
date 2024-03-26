@@ -269,4 +269,4 @@ for i in img_names:
 
 wb.save(r'C:\Users\young\Documents\AWINLAB\i.Deep Learning\test_data.xlsx')
 ```
-![image](https://hackmd.io/_uploads/rJqgsl1kC.png)
+![image](https://github.com/yangchihung/AWINLAB_homework/blob/master/img/output_5.png)
