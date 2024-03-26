@@ -96,7 +96,7 @@ def plotIteration(profit_history, iteration):
 # 畫收斂圖
 plotIteration(profit_history, iteration)
 ```
-![image](https://hackmd.io/_uploads/BycYmSJ1A.png)
+![image](https://github.com/yangchihung/AWINLAB_homework/blob/master/img/output_6.png)
 
 ---
 ## 基因演算法(Genetic algorithm, GA)。(40分) 
@@ -181,4 +181,4 @@ def mutation(offsprings):
 
 交配突變過後，則將所有新產生的解進行評估。
 ### 將結果繪製成圖表
-![image](https://hackmd.io/_uploads/SJC-Z-gJR.png)
+![image](https://github.com/yangchihung/AWINLAB_homework/blob/master/img/output_7.png)
